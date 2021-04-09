@@ -41,4 +41,5 @@ import matplotlib.pyplot as plt
 By comparing the F1 score and accuracy, I found logistic regression algorithm had the best performance.
 
 
-# Medium post： https://czeng98.medium.com/sparkify-subscription-cancellation-analysis-d3b9a2a5c8f5
+# Medium post： 
+https://czeng98.medium.com/sparkify-subscription-cancellation-analysis-d3b9a2a5c8f5
