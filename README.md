@@ -29,16 +29,9 @@ The good performance of the logical regression model may be because the accuracy
 
 https://czeng98.medium.com/sparkify-subscription-cancellation-analysis-d3b9a2a5c8f5
 
-#Github link:  
+# Github link:  
 
 https://github.com/JennyZ-hub/Capstone1
-
-<<<<<<< HEAD
-#Acknowledge:
+ 
+# Acknowledge:
 [1] "Accuracy vs. F1-Score", Purva Huilgol, https://medium.com/analytics-vidhya/accuracy-vs-f1-score-6258237beca2
-||||||| c733b26
-# Medium post： https://czeng98.medium.com/sparkify-subscription-cancellation-analysis-d3b9a2a5c8f5
-=======
-# Medium post： 
-https://czeng98.medium.com/sparkify-subscription-cancellation-analysis-d3b9a2a5c8f5
->>>>>>> b0cabdb29acaa9f645dacf0870b1648766e1d53b
